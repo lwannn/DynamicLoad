@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;IShowToast.java&apos; to &apos;test_DynamicLoad/src/Interface&apos;&#x0D;&#x0A;- Original project: &apos;DynamicLoadMeterial&apos;&#x0D;&#x0A;- Destination element: &apos;test_DynamicLoad/src/Interface&apos;&#x0D;&#x0A;- Original element: &apos;Interface.IShowToast.java&apos;" description="Copy compilation unit" destination="=test_DynamicLoad/src&lt;Interface" element1="/src&lt;Interface{IShowToast.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1478244666258" units="1" version="1.0"/>
+</session>
